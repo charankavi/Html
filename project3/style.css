@@ -1,0 +1,29 @@
+    h2{
+       color: #daa520;
+    }
+
+    body{
+        background-color: #faebd7;
+    }
+
+    .header{
+        background-image: linear-gradient(#bb9b49,#b48811,#ebd197);
+        display: flex;
+        justify-content: space-between;
+    }
+
+    .image{
+        border: 2px solid #000000;
+        background-color: #48c23d2a;
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-around;
+    }
+ 
+    .item{
+        text-align: center;
+    }
+
+    .footer{
+        text-align: right;
+    }
